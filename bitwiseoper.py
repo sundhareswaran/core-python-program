@@ -1,0 +1,7 @@
+a=input('enter first number:')
+b=input('enter second number:')
+print(('a & b is',a & b))
+print(('a | b is',a | b))
+print(('a ^ b is',a ^ b))
+print(('~a is',~a))
+print(('~b is',~b))

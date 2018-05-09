@@ -1,0 +1,3 @@
+i=o
+for(i=0;i<=10;i++)
+print("list(range(10)))

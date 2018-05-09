@@ -1,0 +1,4 @@
+num1=
+num2=50
+num1<num2
+print("num1 is greater than num2 ")
